@@ -11,3 +11,5 @@ pom.xml.asc
 .hg/
 .idea/
 hipsterstack.iml
+project/project/target
+project/target
