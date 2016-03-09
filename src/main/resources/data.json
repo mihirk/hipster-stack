@@ -1,0 +1,99 @@
+{
+  "languages": {
+    "c": {
+      "hipster": 0
+    },
+    "java": {
+      "hipster": 0
+    },
+    "ruby": {
+      "hipster": 70
+    },
+    "python": {
+      "hipster": 30
+    },
+    "scala": {
+      "hipster": 80
+    },
+    "clojure": {
+      "hipster": 90
+    },
+    "php": {
+      "hipster": -100
+    },
+    "f#": {
+      "hipster": 100
+    },
+    "c#": {
+      "hipster": 0
+    },
+    "c++": {
+      "hipster": 10
+    },
+    "javascript": {
+      "hipster": 70
+    },
+    "go": {
+      "hipster": 80
+    }
+  },
+  "databases": {
+    "postgres": {
+      "hipster": 0
+    },
+    "mysql": {
+      "hipster": 0
+    },
+    "oracle": {
+      "hipster": 0
+    },
+    "ibm db2": {
+      "hipster": 0
+    },
+    "elasticsearch": {
+      "hipster": 0
+    },
+    "mongo": {
+      "hipster": 0
+    },
+    "cassandra": {
+      "hipster": 0
+    },
+    "aerospike": {
+      "hipster": 0
+    },
+    "redis": {
+      "hipster": 0
+    },
+    "firebase": {
+      "hipster": 0
+    },
+    "hbase": {
+      "hipster": 0
+    },
+    "couchdb": {
+      "hipster": 0
+    },
+    "dynamodb": {
+      "hipster": 0
+    },
+    "riak": {
+      "hipster": 0
+    },
+    "berkeley db": {
+      "hipster": 0
+    },
+    "tokyo cabinet": {
+      "hipster": 0
+    },
+    "memcached": {
+      "hipster": 0
+    },
+    "new4j": {
+      "hipster": 0
+    },
+    "titan": {
+      "hipster": 0
+    }
+  }
+}
