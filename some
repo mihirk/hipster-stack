@@ -1,0 +1,42 @@
+{
+    "hipsterstack": {
+        "languages": {
+            "c": {
+                "hipster": 0
+            },
+            "java": {
+                "hipster": 0
+            },
+            "ruby": {
+                "hipster": 70
+            },
+            "python": {
+                "hipster": 30
+            },
+            "scala": {
+                "hipster": 80
+            },
+            "clojure": {
+                "hipster": 90
+            },
+            "php": {
+                "hipster": -100
+            },
+            "f#": {
+                "hipster": 100
+            },
+            "c#": {
+                "hipster": 0
+            },
+            "c++": {
+                "hipster": 10
+            },
+            "javascript": {
+                "hipster": 70
+            },
+            "go": {
+                "hipster": 80
+            }
+        }
+    }
+}
