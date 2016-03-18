@@ -2,6 +2,8 @@ package org.web.service
 
 import io.circe.syntax._
 import io.circe.parser._
+import io.circe._
+import io.circe.generic.auto._
 import org.scalatest.FunSuite
 import org.web.model.{Hipster, Language, Rated}
 
