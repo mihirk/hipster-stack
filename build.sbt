@@ -9,6 +9,7 @@ resolvers ++= Seq(
 )
 
 libraryDependencies ++= Seq(
+  "org.scalatest" %% "scalatest" % "latest.integration" % "test",
   "com.github.finagle" %% "finch-core" % "0.10.0",
   "com.github.finagle" %% "finch-circe" % "0.10.0",
   "io.circe" %% "circe-generic" % "0.3.0",

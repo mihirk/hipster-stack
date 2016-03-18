@@ -4,19 +4,18 @@ sealed trait Layer {
   val layer: String
 }
 
-case object Language extends Layer {
+case class Language() extends Layer {
   override val layer: String = "Language"
 }
 
-case object FrontendFramework extends Layer {
+case class FrontendFramework() extends Layer {
   override val layer: String = "FrontendFramework"
 }
 
-case object Database extends Layer {
+case class Database() extends Layer {
   override val layer: String = "Database"
 }
 
-case object InfrastructureCode extends Layer {
+case class InfrastructureCode() extends Layer {
   override val layer: String = "InfrastructureCode"
 }
-
